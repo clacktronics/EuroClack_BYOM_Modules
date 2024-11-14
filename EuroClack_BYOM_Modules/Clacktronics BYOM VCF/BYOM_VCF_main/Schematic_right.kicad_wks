@@ -1,0 +1,163 @@
+(kicad_wks
+	(version 20231118)
+	(generator "pl_editor")
+	(generator_version "8.0")
+	(setup
+		(textsize 1.5 1.5)
+		(linewidth 0.15)
+		(textlinewidth 0.15)
+		(left_margin 10)
+		(right_margin 10)
+		(top_margin 25)
+		(bottom_margin 10)
+	)
+	(rect
+		(name "")
+		(start 86.0072 28.0058)
+		(end 2.0002 1.9998)
+		(comment "rect around the title block")
+	)
+	(rect
+		(name "")
+		(start 0 0 ltcorner)
+		(end 0 0)
+		(repeat 2)
+		(incrx 2)
+		(incry 2)
+	)
+	(line
+		(name "")
+		(start 50 2 ltcorner)
+		(end 50 0 ltcorner)
+		(repeat 30)
+		(incrx 50)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 25 1 ltcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(repeat 100)
+		(incrx 50)
+	)
+	(line
+		(name "")
+		(start 50 2 lbcorner)
+		(end 50 0 lbcorner)
+		(repeat 30)
+		(incrx 50)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 25 1 lbcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(repeat 100)
+		(incrx 50)
+	)
+	(line
+		(name "")
+		(start 0 50 ltcorner)
+		(end 2 50 ltcorner)
+		(repeat 30)
+		(incry 50)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 1 25 ltcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(justify center)
+		(repeat 100)
+		(incry 50)
+	)
+	(line
+		(name "")
+		(start 0 50 rtcorner)
+		(end 2 50 rtcorner)
+		(repeat 30)
+		(incry 50)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 1 25 rtcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(justify center)
+		(repeat 100)
+		(incry 50)
+	)
+	(line
+		(name "")
+		(start 86.0072 6.0058)
+		(end 2.0072 6.0058)
+	)
+	(tbtext "${KICAD_VERSION}"
+		(name "")
+		(pos 85.0002 4.0998)
+		(comment "Kicad version")
+	)
+	(line
+		(name "")
+		(start 86.0072 9.0058)
+		(end 2.0072 9.0058)
+	)
+	(tbtext "Rev: ${REVISION}"
+		(name "")
+		(pos 25.0002 6.8998)
+		(font bold)
+	)
+	(tbtext "Id: ${#}/${##}"
+		(name "")
+		(pos 24 4.1)
+		(comment "Sheet id")
+	)
+	(line
+		(name "")
+		(start 86.0072 13.0058)
+		(end 2.0072 13.0058)
+	)
+	(tbtext "Title: ${TITLE}"
+		(name "")
+		(pos 86.0002 10.6998)
+		(font
+			(size 2 2) bold italic)
+	)
+	(tbtext "File: ${FILENAME}"
+		(name "")
+		(pos 85.0002 14.2998)
+	)
+	(line
+		(name "")
+		(start 86.0072 20.0058)
+		(end 2.0072 20.0058)
+	)
+	(tbtext "Sheet: ${SHEETPATH}"
+		(name "")
+		(pos 85.0002 17.9998)
+	)
+	(line
+		(name "")
+		(start 26.0072 9.0058)
+		(end 26.0002 1.9998)
+	)
+	(tbtext "BUILD YOUR OWN MODULAR"
+		(name "")
+		(pos 85.0072 23.0058)
+		(font
+			(face "Dosis")
+			(size 5 5) bold)
+	)
+	(tbtext "Text"
+		(name "")
+		(pos 0 0)
+	)
+	(tbtext "Text"
+		(name "")
+		(pos 0 0)
+	)
+)
