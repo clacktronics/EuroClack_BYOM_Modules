@@ -500,6 +500,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -610,7 +611,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "Schematic_left.kicad_wks",
-    "plot_directory": "R:/MyDrive/Euroclack/Build your own modular book/buildyourownmodular/Paper_pages/08_LFO_Envelope/",
+    "plot_directory": "../../pdf_schematics/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
