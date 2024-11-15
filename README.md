@@ -17,7 +17,7 @@ A simple PSU that uses the 12V direct and creates a -12V using a cheap through h
 
 A paired down sawtooth VCO that can do a couple of octaves, uses only TL074
 
-[PSU Schematic](pdf_schematics/BYOM_VCO_main.pdf)
+[VCO Schematic](pdf_schematics/BYOM_VCO_main.pdf)
 
 
 ## VCA
@@ -25,7 +25,7 @@ A paired down sawtooth VCO that can do a couple of octaves, uses only TL074
 
 Simple dual VCA using the LM13700
 
-[PSU Schematic](pdf_schematics/BYOM_VCA_main.pdf)
+[VCA Schematic](pdf_schematics/BYOM_VCA_main.pdf)
 
 
 ## VCF
@@ -33,7 +33,7 @@ Simple dual VCA using the LM13700
 
 A gritty sounding VCF using the LM13700
 
-[PSU Schematic](pdf_schematics/BYOM_VCF_main.pdf)
+[VCF Schematic](pdf_schematics/BYOM_VCF_main.pdf)
 
 
 
@@ -42,7 +42,7 @@ A gritty sounding VCF using the LM13700
 
 Performs basic attunuation and inversion of CV signals
 
-[PSU Schematic](pdf_schematics/BYOM_Attenuverter_main.pdf)
+[Attenuverter Schematic](pdf_schematics/BYOM_Attenuverter_main.pdf)
 
 
 ## MIXER
@@ -50,7 +50,7 @@ Performs basic attunuation and inversion of CV signals
 
 Mixes CV and Audio signals
 
-[PSU Schematic](pdf_schematics/BYOM_Mixer_main.pdf)
+[Mixer Schematic](pdf_schematics/BYOM_Mixer_main.pdf)
 
 
 ## LFO
@@ -58,7 +58,7 @@ Mixes CV and Audio signals
 
 Simple LFO that has shape and frequency controls
 
-[PSU Schematic](pdf_schematics/BYOM_LFO_main.pdf)
+[LFO Schematic](pdf_schematics/BYOM_LFO_main.pdf)
 
 
 ## ENVELOPE
@@ -67,7 +67,7 @@ Simple LFO that has shape and frequency controls
 
 Simple AR generator
 
-[PSU Schematic](pdf_schematics/BYOM_Envelope_main.pdf)
+[Envelope Schematic](pdf_schematics/BYOM_Envelope_main.pdf)
 
 
 ## MICROCONTROLLER
@@ -76,7 +76,7 @@ Simple AR generator
 
 Raspberry Pi Pico based experimental board
 
-[PSU Schematic](pdf_schematics/BYOM_Micro_main.pdf)
+[Micro Schematic](pdf_schematics/BYOM_Micro_main.pdf)
 
 
 ## PASSIVE MULT
