@@ -13,6 +13,8 @@ local_only
 *.kicad_pcb-bak
 *.sch-bak
 *~
+~*
+
 _autosave-*
 *.tmp
 *-save.pro

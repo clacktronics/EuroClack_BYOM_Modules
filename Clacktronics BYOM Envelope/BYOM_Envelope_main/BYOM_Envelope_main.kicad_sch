@@ -4723,7 +4723,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL074"
 			(at 158.75 71.5701 0)
 			(effects
 				(font
@@ -4980,7 +4980,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL074"
 			(at 87.63 67.7601 0)
 			(effects
 				(font
@@ -5153,7 +5153,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL074"
 			(at 160.02 46.1701 0)
 			(effects
 				(font
@@ -5392,7 +5392,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL074"
 			(at 88.9 30.48 0)
 			(effects
 				(font
@@ -6032,7 +6032,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL074"
 			(at 53.34 56.6999 0)
 			(effects
 				(font
